@@ -2,7 +2,7 @@
 
 Learning Golang for Ops and Site Reliability Engineering. 
 
-Why Go for Ops and SRE? 
+## Why Go for Ops and SRE? 
 
 * Open Source.
 * Simple, reliable and efficient. 
