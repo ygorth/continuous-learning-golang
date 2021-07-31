@@ -13,6 +13,6 @@ Learning Golang for Ops and Site Reliability Engineering.
 * SREs normally write tools and projects which are more complex than 'scripts' - let's eliminate real toils! :P
 * Go in production at Google and outside!
 
-## Learning Resources and Credits:
+## Learning Resources and Credits
 
 * https://github.com/quii/learn-go-with-tests
