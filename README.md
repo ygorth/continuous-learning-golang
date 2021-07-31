@@ -10,7 +10,7 @@ Why Go for Ops and SRE?
 * Good standard libraries.
 * Concurrency via goroutines and channels.
 * Google's definition SRE is a software engineer running operations. 
-* SREs normally write tools and projects which are more complex than 'scripts'.
+* SREs normally write tools and projects which are more complex than 'scripts' - let's eliminate real toils! :P
 * Go in production at Google and outside!
 
 ## Learning Resources and Credits:
