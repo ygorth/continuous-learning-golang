@@ -1,4 +1,4 @@
-# Continuous Learning Golang
+# Continuous Learning: Golang
 
 ## Learning Resources and Credits:
 
