@@ -30,3 +30,4 @@ golangci-lint run
 * https://github.com/quii/learn-go-with-tests
 * https://awesome-go.com/
 * https://github.com/golang/vscode-go/blob/master/docs/tools.md
+* https://github.com/go-modules-by-example/index/blob/master/009_submodules/README.md
