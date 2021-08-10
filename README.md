@@ -18,6 +18,11 @@ Learning Golang for Ops and Site Reliability Engineering.
 * Aim to solve problems related to dependency management, version selection and reproducible builds
 * Enable users to run Go code outside of GOPATH
 
+### Go Doc
+* To install run: $ go get golang.org/x/tools/cmd/godoc
+* Launch the docs locally by running: $ godoc -http :8000
+* http://localhost:8000/pkg: see all the packages installed
+
 ### Go Linting: golangci-lint
 ```bash
 # Ubuntu 
