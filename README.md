@@ -1,4 +1,4 @@
-# Continuous Learning: Golang
+# Continuous Learning: Go
 
 Learning Golang for Ops and Site Reliability Engineering. 
 
